@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "S_barrels",
+    "path": "sprites/S_barrels/S_barrels.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -17,10 +20,10 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [
-    {"x":25.0,"y":0.0,},
-    {"x":38.0,"y":0.0,},
-    {"x":38.0,"y":64.0,},
-    {"x":25.0,"y":64.0,},
+    {"x":0.0,"y":0.0,},
+    {"x":96.0,"y":0.0,},
+    {"x":96.0,"y":64.0,},
+    {"x":0.0,"y":64.0,},
   ],
   "eventList": [],
   "properties": [],
@@ -30,7 +33,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "wall2",
+  "name": "Barrels",
   "tags": [],
   "resourceType": "GMObject",
 }
