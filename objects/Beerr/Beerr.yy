@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite13",
-    "path": "sprites/Sprite13/Sprite13.yy",
+    "name": "beer",
+    "path": "sprites/beer/beer.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,15 +20,12 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [
-    {"x":4.0,"y":23.0,},
-    {"x":57.0,"y":23.0,},
-    {"x":57.0,"y":44.0,},
-    {"x":4.0,"y":44.0,},
+    {"x":22.0,"y":22.0,},
+    {"x":36.0,"y":22.0,},
+    {"x":36.0,"y":32.0,},
+    {"x":22.0,"y":32.0,},
   ],
-  "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -36,7 +33,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "table",
+  "name": "Beerr",
   "tags": [],
   "resourceType": "GMObject",
 }

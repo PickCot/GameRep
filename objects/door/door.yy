@@ -20,9 +20,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [
-    {"x":14.0,"y":0.0,},
-    {"x":52.0,"y":0.0,},
-    {"x":52.0,"y":64.0,},
+    {"x":14.0,"y":47.0,},
+    {"x":51.0,"y":47.0,},
+    {"x":51.0,"y":64.0,},
     {"x":14.0,"y":64.0,},
   ],
   "eventList": [],

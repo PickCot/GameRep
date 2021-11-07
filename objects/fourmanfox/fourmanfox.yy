@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite13",
-    "path": "sprites/Sprite13/Sprite13.yy",
+    "name": "soob2",
+    "path": "sprites/soob2/soob2.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,15 +20,12 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [
-    {"x":4.0,"y":23.0,},
-    {"x":57.0,"y":23.0,},
-    {"x":57.0,"y":44.0,},
-    {"x":4.0,"y":44.0,},
+    {"x":19.0,"y":25.0,},
+    {"x":43.0,"y":25.0,},
+    {"x":43.0,"y":54.0,},
+    {"x":19.0,"y":54.0,},
   ],
-  "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -36,7 +33,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "table",
+  "name": "fourmanfox",
   "tags": [],
   "resourceType": "GMObject",
 }
